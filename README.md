@@ -1,4 +1,4 @@
-![Mohamed Ayman banner](assets/banner.svg)
+![Mohamed Ayman banner](assests/banner-animated.svg)
 
 Computer Engineering student at Cairo University (GPA 3.7/4.0, expected 2027).
 I build **AI systems**: RAG chatbots, deep learning models, and computer vision, backed by solid engineering and testing.
