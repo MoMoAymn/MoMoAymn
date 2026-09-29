@@ -1,3 +1,4 @@
+![Mohamed Ayman banner](assets/banner.svg)
 
 Computer Engineering student at Cairo University (GPA 3.7/4.0, expected 2027).
 I build **AI systems**: RAG chatbots, deep learning models, and computer vision, backed by solid engineering and testing.
@@ -20,9 +21,11 @@ I build **AI systems**: RAG chatbots, deep learning models, and computer vision,
 | **Traffic Sign Recognition** | Detects and classifies signs from a mobile camera, with real-time voice output | HOG + SVM |
 | **Search Engine** | Crawl → index → rank → query, from scratch | Java, MongoDB |
 | **Tourism Management System** | Website to manage trips, bookings and monuments, with a relational schema and complex queries | SQL |
-| **Pneumonia Detection**  | CNN that classifies chest X-rays to detect pneumonia | Python, CNN |
+| **Pneumonia Detection** | CNN that classifies chest X-rays to detect pneumonia | Python, CNN |
 
 ## Toolbox
+![Skills](https://skillicons.dev/icons?i=py,cpp,java,sklearn,mysql,mongodb,cypress,docker,arduino,git,github&theme=dark)
+
 **Languages:** Python · SQL · C++ · Java
 **Data & ML:** pandas · NumPy · scikit-learn · CNNs · feature engineering · classification & regression · RAG · Ray
 **Data engineering:** ETL/ELT · star & snowflake schemas · OLTP vs OLAP · stored procedures · Hadoop · Spark · Hive (intro)
